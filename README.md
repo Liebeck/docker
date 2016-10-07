@@ -1,2 +1,2 @@
 # docker
-Repository for docker images and snippets
+Repository for docker images, based on [pasmod/docker](pasmod/docker)
