@@ -1,11 +1,14 @@
 Based on Dockerfile from [Christian Meter](https://github.com/n2o)
 
 # Install
+``` bash
 docker build -t dockerlatex .
+```
 
 # Start
+``` bash
 docker run -it --rm=true -v ~/Documents/Dissertation:/tex dockerlatex latexmk -pvc -bibtex -view=none -quiet -pdf thesis.tex
-
+```
 
 # Optional local IDE configuration
 ## Okular
