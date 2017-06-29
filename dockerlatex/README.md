@@ -16,8 +16,6 @@ docker run -it --rm=true -v ~/Documents/Dissertation:/tex dockerlatex latexmk -p
 sudo apt-get install okular
 ```
 ## Sublime
-``` bash
-sudo apt-get install sublime-text
-```
+https://www.sublimetext.com/docs/3/linux_repositories.html
 
 Replace `~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings` with the file from this directory
