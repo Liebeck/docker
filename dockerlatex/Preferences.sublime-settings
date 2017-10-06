@@ -5,5 +5,5 @@
 		"LaTeXTools",
 		"Vintage"
 	],
-	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace", "*.aux", "*.lot", "*.log", "*.run.xml", "*.fdb_latexmk", ".gitignore", "*.bbl", "*.bcf", "*.blg", "*.fls", "*.lof", "*.out", "*.toc"],
+	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace", "*.aux", "*.lot", "*.log", "*.run.xml", "*.fdb_latexmk", ".gitignore", "*.bbl", "*.bcf", "*.blg", "*.fls", "*.lof", "*.out", "*.toc", "*.snm", "*.nav", "*.pdf", "*.synctex.gz", "*.vrb"],
 }
